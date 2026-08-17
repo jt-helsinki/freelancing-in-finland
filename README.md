@@ -1083,7 +1083,7 @@ This obligation is similar to *VAT reports* in the sense that it's fully your re
 * **Send payroll reports**, *recurring* obligation: if you're taking out salary, *Employer Contribution report* and *Incomes Register report* must be done.
 If you're taking out dividends, specific *Dividend report* must be done. Your accountant can do these for you.
 
-* **Perform monthly bookkeeping**, *recurring* activity: even though there's no legal obligation to perform bookkeeping every month, accountants insist it is necessary and I trust their judgement
+* **Perform monthly bookkeeping**, *recurring* activity: If your reporting cycle for anything is monthly (such as VAT), then it's necessary to perform monthly bookkeeping. In addition, accountants recommend monthly bookkeeping, and I trust their judgement
 on this. If in a typical software project we regularly do backlog grooming so that the backlog wouldn't become a mess, it is understandable for me why accountants would want to resolve all transactions
 every month when it's fresh in everyone's mind.
 
